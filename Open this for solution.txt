@@ -1,0 +1,2 @@
+As this demo application contains some personal imformation like credentials and personal details,
+So, this demo solution is saved in your bitbucket private repository
